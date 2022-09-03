@@ -1,0 +1,110 @@
+body {
+    font-family: popppins;
+
+}
+
+.user-name img {
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+}
+
+.user-name i {
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.title-user {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.title-user h6 {
+    font-size: 20px;
+}
+
+.title-user .garry {
+    color: rgb(13, 181, 237);
+}
+
+.title-user p {
+    color: silver;
+}
+
+.remember-place p {
+    font-size: 20px;
+    margin-top: 30px;
+    color: rgb(34, 33, 33);
+}
+
+.remember-place img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.social {
+    margin-top: 40px;
+
+}
+
+.social i {
+    margin-right: 10px;
+}
+
+.social p {
+    color: rgb(135, 132, 132);
+}
+
+.share i {
+    color: rgb(135, 132, 132);
+}
+
+.comment {
+    background-color: silver;
+    margin-top: 20px;
+    padding: 20px 20px 20px 20px;
+    font-size: 20px;
+}
+
+.comment img {
+    width: 60px;
+    height: 60px;
+}
+
+.comment-alice {
+    margin-left: 20px;
+}
+
+.comment-alice .date {
+    color: rgb(135, 132, 132);
+}
+
+.comment-alice .reply {
+    color: rgb(13, 181, 237);
+}
+
+.comment-alice i {
+    margin-left: 20px;
+}
+
+.add-comment {
+    margin-top: 30px;
+}
+
+.add-comment textarea {
+    margin-left: 20px;
+    height: 100px;
+    width: 1300px;
+    border-radius: 5px;
+}
+
+.add-comment button {
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: rgb(13, 181, 237);
+    color: #fff;
+    border: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    width: 200px;
+}
